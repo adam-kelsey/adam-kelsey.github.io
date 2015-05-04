@@ -52,7 +52,7 @@
 		padding: 4em 4em 6em 4em;
 		position: relative;
 		text-align: center;
-		width: 100%;
+		width: 50%;
 	}
 
 		#footer .icons {
@@ -67,8 +67,8 @@
 				border-left-width: 1px;
 				display: inline-block;
 				line-height: 1em;
-				margin-left: 10em;
-				padding-left: 10em;
+				margin-left: 0.75em;
+				padding-left: 0.75em;
 			}
 
 /* Main */
