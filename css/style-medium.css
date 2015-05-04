@@ -57,6 +57,7 @@
 
 		#footer .icons {
 			margin: 0 0 1em 0;
+			position: relative;
 		}
 
 		#footer .copyright {
@@ -67,8 +68,8 @@
 				border-left-width: 1px;
 				display: inline-block;
 				line-height: 1em;
-				margin-left: 4em;
-				padding-left: 4em;
+				margin-left: 0.75em;
+				padding-left: 0.75em;
 			}
 
 /* Main */
