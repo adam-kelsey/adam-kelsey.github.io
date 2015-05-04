@@ -56,7 +56,9 @@
 	}
 
 		#footer .icons {
-			margin: 10em 5em 1em 7em;
+			/*margin: 0 0 1em 0;*/
+			position: relative;
+			width: 100%;
 		}
 
 		#footer .copyright {
